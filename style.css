@@ -43,7 +43,7 @@ h2{
 .backg {
     margin-top: 15px;
     min-height: 250px;
-    background-image: url(/images/banner3.jpg);
+    background-image: url(./images/banner3.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -89,7 +89,7 @@ button {
     width: 100%;
 }
 ul {
-    list-style-image: url(/images/arrow_bullet.png);
+    list-style-image: url(./images/arrow_bullet.png);
     padding-left: 15px;
     margin-top: 20px;
     display: flex;
